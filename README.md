@@ -18,4 +18,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&&show_icons=true&&theme=chartreuse-dark&&include_all_commits=true&&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&&show_icons=true&&theme=highcontrast" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvil1808&&show_icons=true&&theme=vision-friendly-dark&&layout=compact" />
