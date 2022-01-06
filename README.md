@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working in the Elecrtical Department of Team Uttejit in VIT - Vellore 
+- 🔭 I’m currently working in the Elecrtical Department of Team Uttejit at VIT - Vellore 
 - 🌱 I’m currently learning NodeJS for backend development, Python(for Data Analytics and Visualisation)
 - 📫 How to reach me: https://www.linkedin.com/in/dhruvil-patel-7196021b4
 - 😄 Pronouns: He/Him
