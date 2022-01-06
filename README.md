@@ -16,7 +16,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
+<h2 align="center">
 <br><img src="https://github.com/dhruvil1808/dhruvil1808/blob/main/github-metrics.svg"><br> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&theme=chartreuse-dark" width="700">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&&show_icons=true&&theme=highcontrast" />
-
+</h2>
