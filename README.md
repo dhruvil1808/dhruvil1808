@@ -17,5 +17,5 @@
 - 💬 Ask me about ... -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&theme=chartreuse-dark" width="700">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&&show_icons=true&&theme=highcontrast" width="500"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&&show_icons=true&&theme=highcontrast" width="400"/>
 
