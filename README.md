@@ -17,5 +17,4 @@
 - 💬 Ask me about ... -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&theme=chartreuse-dark" width="700">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&&show_icons=true&&theme=highcontrast" width="400"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
