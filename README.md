@@ -23,14 +23,10 @@
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvil1808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dhruvil1808" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&locale=en&theme=radical" width="400" alt="dhruvil1808" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvil1808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="400" alt="dhruvil1808" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&" width="400" alt="dhruvil1808" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&locale=en&theme=radical" alt="dhruvil1808" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&" alt="dhruvil1808" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&theme=chartreuse-dark" width="700">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&langs_count=10&layout=compact&theme=radical" width="500">
 
 
 
