@@ -1,4 +1,4 @@
-### Hi there 👋 I am Dhruvil
+### Hi there 👋 I am Dhruvil<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvil1808&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil1808" /> </p>
 
 - 🔭 I’m currently working in the Elecrtical Department of Team Uttejit at VIT - Vellore 
 - 🌱 I’m currently learning NodeJS for backend development, Python(for Data Analytics and Visualisation)
@@ -16,11 +16,9 @@
 <br/>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&locale=en&theme=radical" width="500" alt="dhruvil1808" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvil1808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="400" alt="dhruvil1808" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&theme=radical" width="500" alt="dhruvil1808" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvil1808&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil1808" /> </p>
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvil1808" alt="dhruvil1808" /></a> </p>
 
 
