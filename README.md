@@ -1,4 +1,4 @@
-### Hi there 👋 I am Dhruvil<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvil1808&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil1808" /> </p>
+### Hi there 👋 I am Dhruvil
 
 - 🔭 I’m currently working in the Elecrtical Department of Team Uttejit at VIT - Vellore 
 - 🌱 I’m currently learning NodeJS for backend development, Python(for Data Analytics and Visualisation)
