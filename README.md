@@ -28,7 +28,7 @@
 - 💬 Ask me about ... -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&show_icons=true&locale=en&theme=radical" width="500" alt="dhruvil1808" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvil1808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="500" alt="dhruvil1808" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&" width="500" alt="dhruvil1808" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&theme=radical" width="500" alt="dhruvil1808" /></p>
 
 
 
