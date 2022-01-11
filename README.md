@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Dhruvil
 
-- 🔭 I’m currently working in the Elecrtical Department of Team Uttejit at VIT - Vellore 
-- 🌱 I’m currently learning NodeJS for backend development, Python(for Data Analytics and Visualisation)
+- 🔭 I’m currently working in the Data Acquisition Department of Team Uttejit at VIT - Vellore 
+- 🌱 I’m currently learning backend development, Python(for Data Analytics and Visualisation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
