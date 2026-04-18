@@ -1,23 +1,116 @@
-### Hi there 👋 I am Dhruvil
+# 👋 Hi, I'm Dhruvil
 
-- 🔭 I’m currently working in the Data Acquisition Department of Team Uttejit at VIT - Vellore 
-- 🌱 I’m currently learning backend development, Python(for Data Analytics and Visualisation)
+```bash
+> booting profile...
+> loading modules ██████████ 100%
+> system ready
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/dhruvil-patel-7196021b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvil-patel-7196021b4" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruvil1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvil1808" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhruvil1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruvil1808" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/dhruvilpatel2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvilpatel2002" height="30" width="40" /></a>
+---
+
+## 🧠 About Me
+
+* 💼 Valuations Developer @ UBS (Mumbai)
+* ⚙️ I build backend systems, automation tools, and data-driven solutions
+* 🧪 Interested in simplifying complex systems & making things efficient
+
+<details>
+<summary>🔍 more...</summary>
+
+```python
+class Dhruvil:
+    def __init__(self):
+        self.role = "Backend + Automation Engineer"
+        self.languages = ["Python", "Go", "JavaScript"]
+        self.focus = ["System Design", "Efficiency", "Clean Architecture"]
+
+    def current_goal(self):
+        return "Build tools that save time at scale"
+```
+
+</details>
+
+---
+
+## 🚀 What I’m Working On
+
+<details>
+<summary>📂 projects</summary>
+
+* 💸 **Expense Split + Budget App**
+  → Timeline-based UX, real-time balances
+
+* ⚡ **Automation Systems**
+  → Removing repetitive manual workflows
+
+* 🧩 **Experimental Builds**
+  → Exploring ideas that *might scale*
+
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/dhruvil-patel-7196021b4" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/dhruvil1808" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/dhruvil1808" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/dhruvilpatel2002" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-<br/>
+---
 
-## &#x1f4c8; GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&&count_private=true&&show_icons=true&&theme=synthwave" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&layout=compact&&theme=synthwave" />
+## 🛠️ Tech Stack
 
+```text
+Languages   → Python, C++, JavaScript
+Backend     → Node.js, Express
+Database    → MongoDB, MySQL
+Tools       → Linux, Automation Scripts
+Other       → Arduino, MATLAB
+```
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&theme=radical" width="500" alt="dhruvil1808" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvil1808&count_private=true&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil1808&layout=compact&theme=synthwave" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil1808&theme=radical" />
+</p>
+
+---
+
+## 🕹️ Easter Egg
+
+```bash
+$ ./curiosity.sh
+
+> You made it this far.
+> Most people don’t.
+
+> That’s a good sign.
+```
+
+---
+
+```text
+Consistency > Motivation
+Systems > Hacks
+Clarity > Complexity
+```
+
+---
